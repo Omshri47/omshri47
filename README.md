@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omshri47
 
-I'm a software developer who loves building things with JavaScript, Python and cloud tools. Currently exploring open-source projects and learning more about backend systems.
+I'm a data science who loves building things with machine learning Python and cloud tools. Currently exploring open-source projects and learning more about backend systems.
 
 ## 🔭 Currently
 - Building [project-name](https://github.com/Omshri47/online-fraud-detection)
@@ -16,10 +16,11 @@ I'm a software developer who loves building things with JavaScript, Python and c
 -Soft Skills:- Problem-solving, Analytical thinking, Teamwork, Data-driven communication.
 
 ## ✨ Featured Projects
+-Personal Health Care AI
 
 
 ## 📫 How to reach me
-- Email: your omshripate47@example.com
+- Email:  omshripate47@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/omshree-patel-4a45b1343]
 
 
@@ -28,6 +29,4 @@ I'm a software developer who loves building things with JavaScript, Python and c
 
 ## 🏆 Achievements
 - 1+ hackathon wins 
-- 
-
 Thanks! 👋
