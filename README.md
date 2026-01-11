@@ -1,6 +1,6 @@
 # Hi 👋, I'm Omshri47
 
-I'm a data science who loves building things with machine learning Python and cloud tools. Currently exploring open-source projects and learning more about backend systems.
+I'm a data science student who loves building things with machine learning Python and cloud tools. Currently exploring open-source projects and learning more about backend systems.
 
 ## 🔭 Currently
 - Building [project-name](https://github.com/Omshri47/online-fraud-detection)
@@ -21,7 +21,7 @@ I'm a data science who loves building things with machine learning Python and cl
 
 ## 📫 How to reach me
 - Email:  omshripate47@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/omshree-patel-4a45b1343]
+- LinkedIn: [https://www.linkedin.com/in/Omshri47]
 
 
 ## 📈 GitHub Stats
