@@ -1,4 +1,4 @@
-# Hi 👋, I'm Omshri47
+# Hi 👋, I'm Omshri patel
 
 I'm a data science student who loves building things with machine learning Python and cloud tools. Currently exploring open-source projects and learning more about backend systems.
 
