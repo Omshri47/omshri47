@@ -23,10 +23,6 @@ I'm a data science student who loves building things with machine learning Pytho
 - Email:  omshripate47@gmail.com
 - LinkedIn: [https://www.linkedin.com/in/Omshri47]
 
-
-## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Omshri47&show_icons=true&theme=radical)
-
 ## 🏆 Achievements
 - 1+ hackathon wins 
 Thanks! 👋
